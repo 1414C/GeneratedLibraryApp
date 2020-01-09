@@ -43,11 +43,11 @@
         "active": true,
         "callLocation": true,
         "colorMsgTypes": true,
-        "infoMsgs": true,
+        "infoMsgs": false,
         "warningMsgs": true,
         "errorMsgs": true,
-        "debugMsgs": true,
-        "traceMsgs": true
+        "debugMsgs": false,
+        "traceMsgs": false
     },
     "cert_file": "",
     "key_file": "",
